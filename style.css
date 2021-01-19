@@ -1,0 +1,40 @@
+
+h2{
+    color:verdana;
+}
+h1{
+    border:solid; color:#777777;
+    
+}
+p{
+    color:#000000;
+}
+.header{
+    background-color:#55f2ad;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+
+    display:flex;
+    flex-wrap: wrap;
+    color: #44aa11;
+    
+}
+.animal1{
+margin:3px
+}
+.footer{
+    color:cyan;
+    display:flex;
+    justify-content: flex-end;
+    
+}
+body{
+    background-color: #888888;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+    text-align: center;
+    font-style:initial;
+    color: #ffffff;
+}
